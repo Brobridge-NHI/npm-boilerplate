@@ -1,0 +1,19 @@
+{
+  "name": "npm-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate for npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Brobridge-NHI/npm-boilerplate.git"
+  },
+  "author": "Fred Chien <fred@brobridge.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Brobridge-NHI/npm-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Brobridge-NHI/npm-boilerplate#readme"
+}
